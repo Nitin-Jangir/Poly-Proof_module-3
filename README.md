@@ -32,6 +32,6 @@ To compile and deploy the circuit and verifier contract, follow these steps:
 
 2. For deployment run this command npx hardhat run scripts/deploy.ts --network mumbai
 
-3. Then Deploy on Mumbai Testnet by running this command npx hardhat run scripts/depoly.ts --network mumbai
+
 
 
