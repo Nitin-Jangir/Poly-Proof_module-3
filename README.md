@@ -16,6 +16,7 @@ This project is my submission for the Polygon [Advanced] course offered by Metac
 
 5. **Method Invocation:** The `verifyProof()` method, an integral part of the verifier contract, is invoked to validate the generated proof. The resulting assert output is expected to be true, thereby confirming the circuit's validity.
 
+
 ## Installation
 
 To get started with this project, follow these installation steps:
@@ -24,6 +25,7 @@ To get started with this project, follow these installation steps:
 2. Then run the command npm i to install all the dependencies.
 
 3. Create a .env file and store your private key there.
+
 
 ## Compilation and Deployment
 
