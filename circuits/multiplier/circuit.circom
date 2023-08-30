@@ -1,9 +1,10 @@
 pragma circom 2.0.0;
 
+/*This circuit template checks that c is the multiplication of a and b.*/  
 
-template Multiplier2 () {  
+template MyCustomCircuit () {  
 
-   //signal inputs
+ //signal inputs
    signal input a;
    signal input b;
 
@@ -69,4 +70,5 @@ template NOT() {
 
     out <== 1 + in - 2*in;
 }
-component main = Multiplier2();
+
+component main = MyCustomCircuit();
